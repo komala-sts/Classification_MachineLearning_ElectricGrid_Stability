@@ -1,7 +1,7 @@
 # ElectricGrid-Classification
-==============================================================================================
+
 ....Task 1: Comparative Analysis on Supervised Machine Learning Classification Algorithms ....
-==============================================================================================
+
 
 ========================================
 OBJECTIVE AND SUB TASK DETAILS OF TASK1:
